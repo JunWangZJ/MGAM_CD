@@ -6,6 +6,7 @@ Change detection between synthetic aperture radar (SAR) images is a topic of gre
 
 # Citation
 If you use this code for your research, please cite our paper. Thank you!
+
 @ARTICLE{**, author={Jun Wang, Qiongjun Fu, Jiahui Li, Sanku Niu, Yaohui Zhu, Yuechao Zhang, and Pengle Cheng},
 journal={International Journal of Remote Sensing},
 title={Unsupervised SAR Image Change Detection using Multi-level Graph Attribute Matching},
